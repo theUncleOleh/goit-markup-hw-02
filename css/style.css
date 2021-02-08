@@ -132,3 +132,33 @@ body {
 .footer-logo-white {
   color: var(--white-text-collor);
 }
+
+.button {
+  color: var(--white-text-collor);
+}
+
+.main-button {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.progects-name {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  color: var(--h-collor);
+}
+
+.progects {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  color: var(--primary-text-color);
+}
