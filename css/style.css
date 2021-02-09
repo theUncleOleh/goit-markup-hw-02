@@ -35,6 +35,11 @@ body {
 
 .main-title {
   color: var(--white-text-collor);
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
 }
 
 .site-nav-link {
@@ -52,6 +57,12 @@ body {
 
 .nav-link {
   color: var(--primary-text-color);
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
 }
 
 .nav-link:hover,
@@ -61,10 +72,30 @@ body {
 
 .map-address {
   color: var(--white-text-collor);
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
 }
 
 .site-nav-link-current {
   color: var(--link-collor);
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.site-nav-link {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
 }
 
 .link-blue {
@@ -94,9 +125,10 @@ body {
 .benefit-title {
   font-family: Roboto, sans-serif;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 14px;
   line-height: 16px;
+  color: var(--h-collor);
 }
 
 .work-title {
