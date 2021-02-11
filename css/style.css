@@ -34,7 +34,7 @@ body {
   outline: 2px solid green;
 }
 
-.main-title {
+.hero-title {
   color: var(--white-text-collor);
   font-family: Roboto, sans-serif;
   font-style: normal;
@@ -120,15 +120,15 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 2;
 }
 
 .benefit-title {
   font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
+  font-size: 16px;
+  line-height: 1;
   color: var(--h-collor);
 }
 
@@ -166,7 +166,7 @@ body {
   color: var(--white-text-collor);
 }
 
-.button {
+.hero-button {
   color: var(--white-text-collor);
 }
 
@@ -199,3 +199,12 @@ body {
 .frame {
   outline: 2px solid green;
 }
+
+.hero-container {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*display: flex
+  flex-wrap: wrap */ ;
