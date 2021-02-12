@@ -120,7 +120,7 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 2;
+  line-height: 1.71;
 }
 
 .benefit-title {
@@ -129,6 +129,8 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: var(--h-collor);
 }
 
